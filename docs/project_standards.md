@@ -101,10 +101,12 @@ Examples:
 
 ## 5. GitHub Hierarchy
 
+```
 Epic Label (organizational tag)
-- Parent Issue (groups related sub-issues)
--- Sub-issue (actual work item)
---- Task (checklist inside issue body)
+└── Parent Issue (groups related sub-issues)
+    └── Sub-issue (actual work item)
+        └── Task (checklist inside issue body)
+```
 
 ---
 
